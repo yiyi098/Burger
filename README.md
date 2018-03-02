@@ -10,7 +10,7 @@ This is a burger-themed CRUD app that is deployed on Heroku. Some burgers are al
 Node.js, Heroku, JS, HTML, BootStrap, JQuery, Express.JS, Handlebars, MySQL, ORM
 
 ### Dependencies
-Path, Express, Body-Parser, MySQL
+Path, Express, Body-Parser, MySQL, Express-Handlebars
 
 ### Credit
 Denis Wu, Trilogy
